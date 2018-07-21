@@ -7,17 +7,17 @@
 // ----------- General Variables -----------
 
 // Currency 'nano' or 'banano'
-$currency = 'nano';
+$currency = 'banano';
 
 // Theme of your Node Monitor
 // Nano Themes:   'dark' or 'light'
 // Banano Themes: 'banano'
-$themeChoice = 'light';
+$themeChoice = 'banano';
 
 // Choice of block explorer
 // Nano Explorers:   'nanode', 'ninja', 'nanoexplorer', 'nanowatch', or 'meltingice'
 // Banano Explorers: 'banano'
-$blockExplorer = 'nanode';
+$blockExplorer = 'banano';
 
 // autorefresh interval for the status webpage in seconds
 $autoRefreshInSeconds = 5;
